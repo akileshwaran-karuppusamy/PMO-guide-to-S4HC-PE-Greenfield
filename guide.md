@@ -13,7 +13,7 @@ Any Task carried out to make S4HC PE productive can be categorized under 3 level
 
 ### Developer Tasks
 
-The typical RICEFW/ WRICEF categorization of developer tasks will not be sufficient and only make confusion in S4HC PE Greenfield Implementation.
+The typical RICEFW categorization of developer tasks will not be sufficient and only make confusion in S4HC PE Greenfield Implementation if not clearly defined. The following table provides the list of developer tasks summarized for each Task Level:
 
 |Overview (Level 1)|Brief (Level 2)|Detailed (Level 3)|
 |---|---|---|
@@ -33,6 +33,10 @@ The typical RICEFW/ WRICEF categorization of developer tasks will not be suffici
 |Custom App|Custom Business Application for SAP-delivered business process|Custom Business Application for SAP-delivered business process making use of BOI|
 |Custom App|Custom Business Application for customer business process|Custom Business Application using RAP BO|
 |Custom App|Custom Business Application for customer business process|Custom Business Application using CBO|
+|Form|Application Form Template Enhancement|Enhance SAP-delivered Application Form Template|
+|Form|Master Form Template Enhancement|Enhance SAP-delivered Master Form Template|
+|Form|Custom Form|Custom Form development using SAP-Released/ Custom Data Source|
+|Workflow|Flexible Workflow Enhancement|Enhance Flexible Workflow Scenario with additional conditions|
 
 ### Configuration Tasks
 ### Customizing Tasks

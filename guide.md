@@ -2,7 +2,9 @@
 
 S4HC PE - S/4 HANA Cloud Public Edition
 
-Tasks - Activities
+## Terminologies
+1. Object - A set of Tasks carried out to resolve the gap identified in S4HC PE
+2. Task - Activity performed
 
 ## Tasks to make S4HC PE fit for Customer
 
